@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E2C3BC9-A6DD-4C77-A781-AE262FBBA6C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SearchBarProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F3B17F0-F2D6-49E3-A391-4397B460616E</key>
+		<string>https://github.com/saltwat5r/MSSearchBarController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SearchBarProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F3B17F0-F2D6-49E3-A391-4397B460616E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/saltwat5r/MSSearchBarController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F3B17F0-F2D6-49E3-A391-4397B460616E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F3B17F0-F2D6-49E3-A391-4397B460616E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MSSearchBarController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
