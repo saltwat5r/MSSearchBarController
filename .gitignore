@@ -6,3 +6,16 @@
 #
 # Pods/
 
+node_modules
+.tmp
+coverage
+bower_components
+.DS_Store
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+UserInterfaceState.xcuserstate
+*.xcuserstate
+*.ipa
+*.mobileprovision
